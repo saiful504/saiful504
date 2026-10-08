@@ -23,7 +23,7 @@ Aspiring Full-Stack Developer ⚡ | React · Next.js · Node.js · TypeScript | 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,next,redux,vits," />
 </p>
 
 ### Backend
@@ -43,7 +43,7 @@ Aspiring Full-Stack Developer ⚡ | React · Next.js · Node.js · TypeScript | 
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,bun,linux,vscode,vercel" />
 </p>
 
 ---
