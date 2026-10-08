@@ -34,12 +34,11 @@ Aspiring Full-Stack Developer ⚡ | React · Next.js · Node.js · TypeScript | 
 
 ### AI & LLM
 
-<p>
-![Claude](https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=D97757)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=FFFFFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Gemini](https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-</p>
+
+![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 
 ### DevOps & Tools
 
